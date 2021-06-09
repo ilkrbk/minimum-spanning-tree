@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/minimum-spanning-tree/minimum-spanning-tree/bin/Debug/minimum_spanning_tree.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/minimum-spanning-tree/minimum-spanning-tree/bin/Debug/minimum_spanning_tree.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/minimum-spanning-tree/minimum-spanning-tree/obj/Debug/minimum-spanning-tree.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/minimum-spanning-tree/minimum-spanning-tree/obj/Debug/minimum-spanning-tree.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/minimum-spanning-tree/minimum-spanning-tree/obj/Debug/minimum_spanning_tree.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/minimum-spanning-tree/minimum-spanning-tree/obj/Debug/minimum_spanning_tree.pdb
